@@ -1,0 +1,6 @@
+.emoji {
+  display: inline-block;
+  height: 22px;
+  width: 22px;
+  background: transparent url(./emoji.png) no-repeat scroll 0 0;
+}
